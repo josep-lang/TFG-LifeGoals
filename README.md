@@ -49,7 +49,7 @@ Cada meta dispone de hitos completables que actualizan el porcentaje de progreso
 
 Se incluye una demostración en vídeo del funcionamiento completo de la aplicación:
 
-
+[Demo_LifeGoals.zip](https://github.com/user-attachments/files/29025513/Demo_LifeGoals.zip)
 
 ## Configuración
 
