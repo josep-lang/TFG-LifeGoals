@@ -1,4 +1,4 @@
-# TFG-LifeGoals
+# LifeGoals
 
 Trabajo de Fin de Grado (DAM) desarrollado como una plataforma de gestión de objetivos personales asistida por Inteligencia Artificial.
 
