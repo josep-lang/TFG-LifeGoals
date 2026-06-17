@@ -70,3 +70,7 @@ Para ejecutar el proyecto es necesario configurar:
 - Firebase Authentication
 - Cloud Firestore
 - API Key de Google Gemini
+
+## Documentación
+
+La documentación completa del proyecto, incluyendo análisis, diseño, arquitectura, desarrollo, pruebas y conclusiones, se encuentra disponible en la carpeta `docs/`.
