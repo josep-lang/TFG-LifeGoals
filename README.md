@@ -4,6 +4,20 @@ Trabajo de Fin de Grado (DAM) desarrollado como una plataforma de gestión de ob
 
 La aplicación permite a los usuarios crear metas, organizar su progreso y generar automáticamente planes de acción mediante Google Gemini AI.
 
+## Estado del proyecto
+
+Proyecto desarrollado como Trabajo de Fin de Grado (DAM).
+
+Actualmente se comparte con fines académicos y como portfolio profesional.
+
+## Repositorio
+
+- Frontend Web (React + TypeScript)
+- Aplicación Móvil (React Native)
+- Firebase Authentication
+- Cloud Firestore
+- Google Gemini AI
+
 ## Características
 
 - Registro e inicio de sesión mediante Firebase Authentication.
